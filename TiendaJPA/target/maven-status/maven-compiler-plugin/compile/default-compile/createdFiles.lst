@@ -1,0 +1,4 @@
+dao\ProductoDAO.class
+dominio\Producto.class
+com\mycompany\tiendajpa\TiendaJPA.class
+dao\IProductoDAO.class
